@@ -2,9 +2,9 @@
 
 ## Практическое задание к занятию "Компоненты"
 
-This is a functional React component
+This is a functional React component.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### In order to check the project, you can run
 
